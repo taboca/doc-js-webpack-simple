@@ -77,9 +77,13 @@ Again, execute the webpack to generate your bundle:
 ./node_modules/webpack-cli/bin/cli.js --config ./webpack.config.js
 ```
 
-And expect, again an alert box. 
+And expect, again an alert box.
 
 
 ## References
 
-* https://www.npmjs.com/package/webpack
+* [Webpack @ npm](https://www.npmjs.com/package/webpack)
+
+* [Getting Started with Webpack](https://webpack.js.org/guides/getting-started/)
+
+* [Configuration of Webpack](https://webpack.js.org/configuration/)
