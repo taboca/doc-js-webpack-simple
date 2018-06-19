@@ -1,3 +1,8 @@
+# This is part of the "Struggling with JavaScript" aka doc-js book
+
+* https://leanpub.com/doc-js
+* If you want to contribute to the book or join me as a coauthor pool, please get in contact mgalli at mgalli dot com subject "doc-js book"
+
 # Bundlers and HTML app start points
 
 * npm install webpack --save-dev
